@@ -4,18 +4,7 @@ __pycache__/
 *.egg-info/
 
 # OpenMDAO outputs
-*.sqlite
-*.db
-*.sql
-n2.html
-n2.html.gz
-driver_recording/
-cases/
-recordings/
-openmdao*.log
-reports/
-outputs/
-logs/
+open_mdao_expanding_box_out/
 
 # Jupyter / notebooks
 .ipynb_checkpoints/
